@@ -1,0 +1,12 @@
+audio
+output*
+robot*
+plans.*
+conservation*
+videos*
+*_model/*
+*model_*/*
+wandb
+images
+align-anything
+__pycache__
